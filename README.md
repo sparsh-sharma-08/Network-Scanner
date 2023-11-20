@@ -1,5 +1,11 @@
 # Network-Scanner
 Final Project of Disruptive Technologies
+# Team Members
+1) Sparsh Sharma
+2) Saurabh Pandey
+3) Jitish Kathuria
+4) Aman Karki
+
 # How it works
 Scan common ports
 Send a TCP Syn packet to the destination on the defined port, if the port is open, use an nmap scan to check the service running on the port and prints all the ports found.
